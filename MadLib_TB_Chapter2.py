@@ -24,8 +24,8 @@ if ready == "Yes":
     print("Last week my friends, " + name2 + ", " + name3 + " and I came across an evil " + noun11 + ".")
     print("When we encountered the evil " + noun11 + ",we " + verb11 + " it.")
     print("We quickly " + verb12 + " away in a " + adj11 + "without looking back.")
-    print("When we got back to the " + adj12 "quarters we were " + verb13 + "by our " + name11 ".")
-    print("")
+    print("When we got back to the " + adj12 + "quarters we were " + verb13 + "by our " + name11 ".")
+    print("But, we saw that " + noun11 + ", was waiting for us at " + adj12 + "quarters!")
 
 elif ready == "No":
     print("Your loss.")
