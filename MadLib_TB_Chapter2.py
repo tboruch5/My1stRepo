@@ -1,10 +1,11 @@
 from MadLib_Chapter1 import *
+imprt time
 
 print("Chapter 2")
 print("Are you ready to begin your adventures? Yes/No")
 if ready == "Yes":
     print("Okay.")
-    print("My name is " + name1 + ", I have been the protector of " + city1 + "for the past six months.")
+    print("My name is " + name1 + ", I have been the protector of " + city1 + "for the last six months.")
     print("Type a noun.")
     noun11 = input().lower()
     print("Type a verb in the past tense.")
@@ -30,3 +31,6 @@ elif ready == "No":
     print("Your loss.")
 else:
     print("That is not a valid answer.")
+    
+    
+time sleep(1000)
