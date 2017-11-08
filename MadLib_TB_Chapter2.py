@@ -1,5 +1,5 @@
 from MadLib_Chapter1 import *
-imprt time
+import time
 
 print("Chapter 2")
 print("Are you ready to begin your adventures? Yes/No")
