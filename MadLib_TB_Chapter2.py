@@ -15,7 +15,7 @@ if ready == "Yes":
     adj11 = input().lower()
     print("Type an adjective.")
     adj12 = input().title()
-    print("Type an action verb in the past tense.")
+    print("Type an action verb ending in -ing.")
     verb13 = input().lower()
     print("Type a group of people.")
     name11 = input().lower()
