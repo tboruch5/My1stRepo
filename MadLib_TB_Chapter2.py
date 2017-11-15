@@ -18,7 +18,7 @@ if ready == "Yes":
     adj12 = input().title()
     print("Type an action verb ending in -ing.")
     verb13 = input().lower()
-    print("Type a group of people.")
+    print("Type a group name.")
     name11 = input().lower()
     
   
@@ -26,7 +26,7 @@ if ready == "Yes":
     print("When we encountered the evil " + noun11 + ",we " + verb11 + " it.")
     print("We quickly " + verb12 + " away in a " + adj11 + "without looking back.")
     print("When we got back to the " + adj12 + "quarters we were " + verb13 + "by our " + name11 ".")
-    print("But, we saw that " + noun11 + ", was waiting for us at " + adj12 + "quarters!")
+    print("But, we saw that " + noun11 + ", was waiting for us at the " + adj12 + "quarters!")
 
 elif ready == "No":
     print("Your loss.")
