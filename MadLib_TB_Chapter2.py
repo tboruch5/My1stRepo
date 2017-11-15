@@ -28,7 +28,7 @@ if ready == "Yes":
     print("We quickly " + verb12 + " away in a " + adj11 + "without looking back.")
     print("When we got back to the " + adj12 + "quarters we were " + verb13 + "by our " + name11 ".")
     print("But, we saw that " + noun11 + ", was waiting for us at the " + adj12 + "quarters!")
-      
+    print("apple sause")
   
 elif ready == "No":
     print("Your loss.")
