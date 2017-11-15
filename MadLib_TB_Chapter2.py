@@ -33,4 +33,4 @@ else:
     print("That is not a valid answer.")
     
     
-time sleep(1000)
+time.sleep(1000)
