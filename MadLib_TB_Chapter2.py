@@ -20,7 +20,7 @@ if ready == "Yes":
     verb13 = input().lower()
     print("Type a group name.")
     name11 = input().lower()
-    Andrew
+
     
   
     print("Last week my friends, " + name2 + ", " + name3 + " and I came across an evil " + noun11 + ".")
