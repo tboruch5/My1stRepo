@@ -16,19 +16,19 @@ if ready == "Yes":
     adj11 = input().lower()
     print("Type an adjective.")
     adj12 = input().title()
-    print("Type an action verb ending in -ing.")
+    print("Type an action verb ending in -ed.")
     verb13 = input().lower()
-    print("Type a group name.")
+    print("Type a team name.")
     name11 = input().lower()
-
+    print("Type a noun.")
+    noun12 = input().lower()
     
-  
     print("Last week my friends, " + name2 + ", " + name3 + " and I came across an evil " + noun11 + ".")
     print("When we encountered the evil " + noun11 + ",we " + verb11 + " it.")
     print("We quickly " + verb12 + " away in a " + adj11 + "without looking back.")
     print("When we got back to the " + adj12 + "quarters we were " + verb13 + "by our " + name11 ".")
     print("But, we saw that " + noun11 + ", was waiting for us at the " + adj12 + "quarters!")
-      
+    print(noun11 + " used his " + noun12 + " to destroy us and take our team member " + name2 + "!")
   
 elif ready == "No":
     print("Your loss.")
